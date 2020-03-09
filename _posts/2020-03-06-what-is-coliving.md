@@ -7,7 +7,7 @@ categories: COLIVING-1
 
 According to Wikipedia, "Coliving is a type of intentional community providing shared housing for people with shared intentions. This may simply be coming together for activities such as meals and discussion in the common living areas, yet may extend to shared workspace and collective endeavours such as living more sustainably."
 
-That sounds good and all, but what does that actually look and feel like? I'm someone stuck in a lease so it wouldn't be as simple as just moving in. I had to find another way to understand coliving from a 10,000 foot view. 
+That sounds good and all, but what does that actually look and feel like? I'm someone stuck in a lease so it wouldn't be as simple as just moving in to a coliving space. I had to find another way to understand coliving from a 10,000 foot view. 
 
 Luckily, a friend of mine had moved in to a coliving space in Hollywood, Los Angeles, California, called Treehouse, a couple months ago and brought me in for a tour and 'Sunday Dinner.' While you can read more extensively about that specific experience [here](losangeles.colivingcircle.com), this post will provide a more high-level look as to why it's hot right and now and what's different about it than a traditional renting situation. 
 
