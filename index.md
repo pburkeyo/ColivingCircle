@@ -7,8 +7,8 @@ The concept of coliving has fascinated me. I've been studying the rental market 
 Today, it is rapidly gaining acceptance among people who not only see the cost-benefit value, but also recognize the social benefit and relationships that can grow faster than they would otherwise. 
 
 ##Blog Post Directory
-(What is Coliving?)[http://blog.colivingcircle.com/2020/03/06/what-is-coliving]
+[What is Coliving?](http://blog.colivingcircle.com/2020/03/06/what-is-coliving)
 
 ##Site Directory
-(Home Page)[colivingcircle.com]
-(Search Coliving)[search.colivingcircle.com]
+[(Home Page](colivingcircle.com)
+[Search Coliving](search.colivingcircle.com)
