@@ -1,37 +1,14 @@
 ## Welcome to the ColivingCircle Blog
 
-Coliving is awesome. You can use the [editor on GitHub](https://github.com/pburkeyo/ColivingCircle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This blog will explore the new and wonderful world of coliving. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The concept of coliving has fascinated me. I've been studying the rental market since 2014 and this is the biggest innovation I've seen in the industry. This blog will help us both understand what coliving is, why it's growing, what people love about it, where it's going and what it says about our society and economy. Surely, this concept of coliving sounds like a fringe idea, something my grandparents and even parents would scoff at. 
 
-### Markdown
+Today, it is rapidly gaining acceptance among people who not only see the cost-benefit value, but also recognize the social benefit and relationships that can grow faster than they would otherwise. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Blog Post Directory
+(What is Coliving?)[http://blog.colivingcircle.com/2020/03/06/what-is-coliving]
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pburkeyo/ColivingCircle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Site Directory
+(Home Page)[colivingcircle.com]
+(Search Coliving)[search.colivingcircle.com]
