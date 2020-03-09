@@ -10,5 +10,7 @@ Today, it is rapidly gaining acceptance among people who not only see the cost-b
 [What is Coliving?](http://blog.colivingcircle.com/2020/03/06/what-is-coliving)
 
 ##Site Directory
+
 [(Home Page](colivingcircle.com)
+
 [Search Coliving](search.colivingcircle.com)
