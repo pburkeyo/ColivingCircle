@@ -1,8 +1,3 @@
-layout: page
-title: "What is Coliving?"
-date: 2020-03-06 04:20:00 -0000
-categories: COLIVING-1
-
 ### What is Co-living?
 
 According to Wikipedia, "Coliving is a type of intentional community providing shared housing for people with shared intentions. This may simply be coming together for activities such as meals and discussion in the common living areas, yet may extend to shared workspace and collective endeavours such as living more sustainably."
