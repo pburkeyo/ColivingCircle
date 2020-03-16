@@ -12,7 +12,9 @@ Another echoed similar sentiments.
 
 This is not too surprising, of course. The panic is widespread across every office or shared space in the country. Only natural for coliving, and likely, co-working, to be hit harder than other industries. While we all hope to wake up from this nightmare that has us glued to our homes and hoarding toiletries, we don't know when that will be or when these industries will recover. 
 
-As one of the property managers told me.
+Tenants in one of the largest coliving spaces in LA are seeing it as an opportunity to bond. "It's actually been really nice to be here during this crazy time. We're practicing social distancing, but we're all in it together!"
 
-"Hope to be having a good laugh about this in the near future."
+That's the one bright spot in all this; that it might deepen relationships for the better. 
+
+As another property manager told me, "We hope to be having a good laugh about this in the near future."
 
