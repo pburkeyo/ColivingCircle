@@ -1,11 +1,16 @@
-Interview with Cate Maiolini - Mayor of London for Startuphome
+<H1>Interview with Cate Maiolini - Mayor of London for Startuphome</H1>
 
 The 'community' aspect of co-living is on a spectrum. 
+
 Companies like StarCity and Common appeal to a broad audience while other spaces are more niche, designed around a specific mission. 
 One of the more common 'themes' for co-living is entrepreneurship. Digital nomads are in someways, an inspiration for co-living, but it extends beyond the freelancer who goes to Bali once a year. Many entrepreneurs and startup founders are attracted to the collaborative approach of co-living.
+
 We had the great opportunity to interview Cate Maiolini, the Mayor of London for Startuphome, a co-living space in, you guessed it, London, England that believes, "gathering passionate people in the same place is the formula for innovation." 
+
 We wholeheartedly agree with that sentiment. 
-How would you define coliving to someone who's unfamiliar with the term?
+
+<b>How would you define coliving to someone who's unfamiliar with the term?</b>
+
 Coliving means living with amazing people who share your interests without losing your privacy. Your boring professor from high school would define coliving as the sum of "community" and "living" - the dictionary definition - and they would be wrong. Coliving is not just renting a room in a big communal house to save money, although it allows major cost-saving. Coliving is not just being able to move to another city or country anytime you want, although it grants impressive freedom. Coliving is all of that, and much more.
 Imagine moving into a new big city like London, or New York. You need months to understand the hidden rules, make new friends, and find cool places. Not anymore. In a coliving, you need just one day.
 A good coliving serves a specific community - for example, our coliving Startuphome serves startups and remote workers. It's a community of pairs. They have already solved your issues and found cool places, and they have similar interests so they can become your best friends. Go and have dinner in the common room on your first day, and you will not feel in a new unfamiliar city anymore. You will immediately feel at home.
