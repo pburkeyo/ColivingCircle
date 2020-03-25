@@ -9,7 +9,10 @@ Today, it is rapidly gaining acceptance among people who not only see the cost-b
 ##Blog Post Directory
 
 [What is Coliving?](http://blog.colivingcircle.com/2020/03/06/what-is-coliving)
+
 [How is the Coronavirus affecting Coliving?](http://blog.colivingcircle.com/2020/03/15/how-is-coronavirus-affecting-coliving)
+
+[Interview with Cate Mailini from Startuphome](http://blog.colivingcircle.com/2020/03/25/interview-Cate-Maiolini-startuphome-london)
 
 ##Site Directory
 
