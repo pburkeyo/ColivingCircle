@@ -30,7 +30,7 @@ POST UPDATED MARCH 26th
 
 With the concern of the coronavirus growing since our last article on the 15th, it's been interesting to see the response from coliving companies. Two of them, Outsite and Outpost, address their new policies publicly while many other companies, including large venture-backed ones, like Quarters, Bungalow and Common have not released a public statement. 
 
-</i>Outsite</i>
+<i>Outsite</i>
 
 Outsite, responsibly, published a post on its website [How is Outsite dealing with Corona Virus?](https://www.outsite.co/faq/corona-virus?utm_content=emmanuel-blog-post&utm_campaign=Covid&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--NUQYf5J9TOCokDVF279tgcA52ZmitSakRyvqjRm2EgM-6PGjC8Lu4NeXE3zMjU0mlEvV7) 
 
