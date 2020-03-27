@@ -66,3 +66,7 @@ Parking was an issue and they discourage people from bringing cars to their comm
 <h3>On whether introverts can handle coliving</h3>
 
 KH: There's certainly space and room for introverts in a co-living community.
+
+Watch the full interview here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4ixUHsAEiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
