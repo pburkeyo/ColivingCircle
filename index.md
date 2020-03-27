@@ -14,6 +14,8 @@ Today, it is rapidly gaining acceptance among people who not only see the cost-b
 
 [Interview with Cate Maiolini from Startuphome](http://blog.colivingcircle.com/2020/03/25/interview-Cate-Maiolini-startuphome-london)
 
+[Interview with Kalen Hayman, Coliving Digital Strategist and Former Member at Haven Coliving in Venice Beach, Los Angeles](http://blog.colivingcircle.com/2020/04/01/interview-kalen-hayman-haven-coliving)
+
 ##Site Directory
 
 [Home Page](colivingcircle.com)
