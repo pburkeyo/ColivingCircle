@@ -69,4 +69,4 @@ KH: There's certainly space and room for introverts in a co-living community.
 
 <h2>Watch the full interview below</h2>
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/O4ixUHsAEiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1050" height="630" src="https://www.youtube.com/embed/O4ixUHsAEiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
