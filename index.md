@@ -1,4 +1,4 @@
-## Welcome to the ColivingCircle Blog
+<h1>Welcome to the ColivingCircle Blog</h1>
 
 This blog will explore the new and wonderful world of coliving. 
 
@@ -6,7 +6,7 @@ The concept of coliving has fascinated me. I've been studying the rental market 
 
 Today, it is rapidly gaining acceptance among people who not only see the cost-benefit value, but also recognize the social benefit and relationships that can grow faster than they would otherwise. 
 
-##Blog Post Directory
+<h2>Blog Post Directory</h2>
 
 [What is Coliving?](http://blog.colivingcircle.com/2020/03/06/what-is-coliving)
 
@@ -16,12 +16,12 @@ Today, it is rapidly gaining acceptance among people who not only see the cost-b
 
 [Interview with Kalen Hayman, Coliving Digital Strategist and Former Member at Haven Coliving in Venice Beach, Los Angeles](http://blog.colivingcircle.com/2020/04/01/interview-kalen-hayman-haven-coliving)
 
-##Site Directory
+<h2>Site Directory</h2>
 
 [Home Page](colivingcircle.com)
 
 [Search Coliving](search.colivingcircle.com)
 
-##Podcast Directory
+<h2>Podcast Directory</h2>
 
 [What is Coliving? Episode 1](https://anchor.fm/colivingcircle)
