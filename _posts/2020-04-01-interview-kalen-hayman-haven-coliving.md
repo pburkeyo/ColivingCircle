@@ -19,33 +19,33 @@ KH: So the idea of privacy is shifting where people are more into living in comm
 
 <h3>On why coliving might not be that different from AirBnB or Uber</h3>
 
-PB: I think 10 years ago if I had told you that you could ping a random stranger from an app and they were going to pick you up and drive you to a restaurant (reference to Uber/Lyft), you'd be like, that's crazy. How do I know they're not this or that? Or if I said, Hey, instead of staying at a hotel, you're going to stay in some random stranger's private bedroom (reference to AirBnB). These things all sounded crazy at the beginning, but quickly was accepted by the mainstream as the value those service provided became obvious. 
+PB: I think 10 years ago if I had told you that you could ping a random stranger from an app and they were going to pick you up and drive you to a restaurant (reference to Uber/Lyft), you'd be like, that's crazy. How do I know they're not this or that? Or if I said, Hey, instead of staying at a hotel, you're going to stay in some random stranger's private bedroom (reference to AirBnB). These things all sounded crazy at the beginning, but were rapidly accepted by the mainstream as the value those services provided became obvious. 
 
 <h3>On the jobs and demographics of people living in Haven</h3>
 
-KH: The coworking space was great for digital nomads and people that worked from home, which was about 50% of the community. Some people were in school, some people would just relocating for work, others traveling.
+KH: The coworking space was great for digital nomads and people that worked from home, which was about 50% of the community. Some people were in school, some people relocating for work, others traveling.
 
 <h3>On whether it ever feels crowded or like you're around too many people</h3>
 
 KH: You're never surrounded by more than like a dozen people at any given time. And even that's really busy and usually in the evenings. There's a lot of people that live there, but no one's on the same schedule. 
 
-<h3>On how long you should stay in a space with shared bedrooms</h3>
+<h3>On how long you should stay in a coliving communtiy with shared bedrooms</h3>
 
-KH: I would say that three months is a good amount of time to live in any given shared community space, as some are designed to require  that to reap the full benefits of living a community and also for the community to fully embrace you.
+KH: I would say that three months is a good amount of time to live in any given shared community space, as some are designed to require  that to reap the full benefits of living in a community and also for the community to fully embrace you.
 
 <h3>On coliving expanding to different markets and demographics</h3>
 
-KH: There are different businesses that will open up to family coliving, which I think is brilliant. I've seen things in Europe, all ages co-living, which I also think is brilliant.
+KH: There are different businesses that will open up to family coliving, which I think is brilliant. I've seen things in Europe, all ages coliving, which I also think is brilliant.
 
-I have two parents who aren't together and live on their own. And I think that both could benefit from living in community, not retired and don't need to live in a home. But I think there's certainly benefits for living with other people of different ages and backgrounds.
+I have two parents who aren't together and live on their own. And I think they both could benefit from living in community, not retired and don't need to live in a home. But I think there's certainly benefits for living with other people of different ages and backgrounds.
 
 <h3>On how to navigate enterting a romantic relationship with another resident</h3>
 
-I'm not in the relationship anymore, it lasted a few months. It was challenging. It was beautiful because of the space we were living in and the community we were surrounded. I think if you end up meeting somebody in a coliving environment, especially if it's coed, which most of them are, it's probably best that you make plans as quickly as possible to move forward, whether together or otherwise.
+I'm not in the relationship anymore. It lasted a few months. It was challenging. It was beautiful because of the space we were living in and the community we were surrounded by. I think if you end up meeting somebody in a coliving environment, especially if it's coed, which most of them are, it's probably best that you make plans as quickly as possible to move forward, whether together or otherwise.
 
 <h3>On relationships in a coliving space</h3>
 
-It's hyper-living. So relationships are really put under the microscope and you're learning a lot about yourselves and each other. Another joke I would make is that you live in a house of mirrors, so all your vulnerabilities are going to be triggered and show up very quickly.
+It's hyper-living. So relationships are really put under the microscope and you're learning a lot about yourselves and each other. A joke I would make is that you live in a house of mirrors, so all your vulnerabilities are going to be triggered and show up very quickly.
 
 <h3>On the benefits of community from a mental health perspective, intention, being vulnerable and feeling safe</h3>
 
