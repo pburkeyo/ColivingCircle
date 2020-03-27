@@ -41,15 +41,15 @@ I have two parents who aren't together and live on their own. And I think they b
 
 <h3>On how to navigate enterting a romantic relationship with another resident</h3>
 
-I'm not in the relationship anymore. It lasted a few months. It was challenging. It was beautiful because of the space we were living in and the community we were surrounded by. I think if you end up meeting somebody in a coliving environment, especially if it's coed, which most of them are, it's probably best that you make plans as quickly as possible to move forward, whether together or otherwise.
+KH: I'm not in the relationship anymore. It lasted a few months. It was challenging. It was beautiful because of the space we were living in and the community we were surrounded by. I think if you end up meeting somebody in a coliving environment, especially if it's coed, which most of them are, it's probably best that you make plans as quickly as possible to move forward, whether together or otherwise.
 
 <h3>On relationships in a coliving space</h3>
 
-It's hyper-living. So relationships are really put under the microscope and you're learning a lot about yourselves and each other. A joke I would make is that you live in a house of mirrors, so all your vulnerabilities are going to be triggered and show up very quickly.
+KH: It's hyper-living. So relationships are really put under the microscope and you're learning a lot about yourselves and each other. A joke I would make is that you live in a house of mirrors, so all your vulnerabilities are going to be triggered and show up very quickly.
 
 <h3>On the benefits of community from a mental health perspective, intention, being vulnerable and feeling safe</h3>
 
-I actually wasn't anticipating the benefits of living in a community from a mental health perspective, even though they did kind of brand themselves and market themselves to a health and wellness community. Living in community obviously takes you out of isolation and being engaged with people who are like minded, who are open and optimistic about who they are and what they want to do.
+KH: I actually wasn't anticipating the benefits of living in a community from a mental health perspective, even though they did kind of brand themselves and market themselves to a health and wellness community. Living in community obviously takes you out of isolation and being engaged with people who are like minded, who are open and optimistic about who they are and what they want to do.
 
 I felt like people shared their vulnerabilities openly, almost daily. Like the types of conversations they would come about from just living in community weren't the ones I was expecting. But I think that there's like a trust of... It's almost like when you go to the bar, the bartender or a hairstylist to get your haircut.
 
@@ -59,10 +59,10 @@ And you don't really know why and it just feels good. So I think there was defin
 
 <h3>On the negative aspects of coliving</h3>
 
-Haven was so self contained, it became a bit of a bubble. Venice beach is already a beach community, so it is its own bubble. 
+KH: Haven was so self contained, it became a bit of a bubble. Venice beach is already a beach community, so it is its own bubble. 
 
 Parking was an issue and they discourage people from bringing cars to their community because of the high volume, lack of access and neighbors that are residents there.
 
 <h3>On whether introverts can handle coliving</h3>
 
-There's certainly space and room for introverts in a co-living community.
+KH: There's certainly space and room for introverts in a co-living community.
