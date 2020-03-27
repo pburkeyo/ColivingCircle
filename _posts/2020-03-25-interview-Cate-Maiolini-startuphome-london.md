@@ -1,5 +1,7 @@
 <H1>Interview with Cate Maiolini - Mayor of London for Startuphome</H1>
 
+![Cate Maiolini (Photo credit to Instyle)](https://drive.google.com/file/d/1tXHkiCuqenKJ1AlvfYK7hTEa6gNVBoaF/view?usp=sharing)
+
 The 'community' aspect of co-living is on a spectrum. 
 
 Companies like StarCity and Common appeal to a broad audience while other spaces are more niche, designed around a specific mission. 
