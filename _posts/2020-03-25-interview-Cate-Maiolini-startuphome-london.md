@@ -1,6 +1,6 @@
 <H1>Interview with Cate Maiolini - Mayor of London for Startuphome</H1>
 
-![Cate Maiolini (Photo credit to Daniele Fummo)](https://github.com/pburkeyo/ColivingCircle/issues/2#issue-592756495)
+![Cate Maiolini (Photo credit to Daniele Fummo)](https://user-images.githubusercontent.com/61760543/78272861-e99bca00-74c2-11ea-8ec7-42d20a7a9f6b.jpg)
 
 The 'community' aspect of co-living is on a spectrum. 
 
