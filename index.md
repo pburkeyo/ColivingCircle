@@ -26,4 +26,8 @@ Today, it is rapidly gaining acceptance among people who not only see the cost-b
 
 [What is Coliving? Episode 1 - Episode 1](https://open.spotify.com/episode/7bsj4buFSQ5vsIqHBUEl3h)
 
-[Interview with Former Venice Beach Haven Member Kalen Hayman - Episode 2](https://www.youtube.com/watch?v=O4ixUHsAEiM&t=)
+[Interview with Cate Maiolini, the Mayor of London for the 'Y Combinator of Coliving Spaces,' Startuphome](https://open.spotify.com/episode/2OswCtg3sU46uZyqxpoFWK)
+
+[Interview with Former Venice Beach Haven Member Kalen Hayman - Episode 2](https://open.spotify.com/episode/2gHY2IjbcMCUi6el9MhLJA)
+
+[Interview with Treehouse Coliving Member Jade Brandais - Episode 4](https://open.spotify.com/episode/2Tyt4QgZehfLuidHtIOfvx)
