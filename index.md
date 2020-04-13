@@ -31,3 +31,7 @@ Today, it is rapidly gaining acceptance among people who not only see the cost-b
 [Interview with Cate Maiolini, the Mayor of London for the 'Y Combinator of Coliving Spaces,' Startuphome - Episode 3](https://open.spotify.com/episode/2OswCtg3sU46uZyqxpoFWK)
 
 [Interview with Treehouse Coliving Member Jade Brandais - Episode 4](https://open.spotify.com/episode/2Tyt4QgZehfLuidHtIOfvx)
+
+<h2>Watch Our Podcast on YouTube</h2>
+
+[YouTube Channel](https://www.youtube.com/channel/UCChooqOe51JVtoZ2nl6i87A?view_as=subscriber)
